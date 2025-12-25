@@ -1,0 +1,1 @@
+# .zynqos_storage
