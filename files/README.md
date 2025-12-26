@@ -1,1 +1,2 @@
-# .zynqos_storage
+# .zynqos_storage 
+## resolving the pull issues
