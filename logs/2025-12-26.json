@@ -979,5 +979,216 @@
     "event": "auth.audit_read",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "bf43665b-5c6f-4ada-88b6-2233e71894ad",
+    "ts": 1766748699089,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "bf43665b-5c6f-4ada-88b6-2233e71894ad",
+    "ts": 1766748699089,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "bf43665b-5c6f-4ada-88b6-2233e71894ad",
+    "ts": 1766748699089,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "a18846ae-371a-4d97-98c2-c0f0d5576f62",
+    "ts": 1766748703650,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "a18846ae-371a-4d97-98c2-c0f0d5576f62",
+    "ts": 1766748703650,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "a18846ae-371a-4d97-98c2-c0f0d5576f62",
+    "ts": 1766748703650,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "c057b092-6778-4488-bf16-c35d9197a83b",
+    "ts": 1766748709075,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "c057b092-6778-4488-bf16-c35d9197a83b",
+    "ts": 1766748709075,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "c057b092-6778-4488-bf16-c35d9197a83b",
+    "ts": 1766748709075,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "507e084e-cc81-46c5-9692-936bc4932007",
+    "ts": 1766748719662,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "507e084e-cc81-46c5-9692-936bc4932007",
+    "ts": 1766748719662,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "507e084e-cc81-46c5-9692-936bc4932007",
+    "ts": 1766748719662,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "ec3eb03b-17cd-4dd6-86c0-d3decccecb24",
+    "ts": 1766748729226,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "6c195b3b-5a29-4e52-a7dc-72db9c671724",
+    "ts": 1766748729654,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "d23d5be2-2ab7-4b94-a5f1-58f351fffde3",
+    "ts": 1766748734266,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "ae560d2e-e674-4368-9eed-333947d09405",
+    "ts": 1766748844482,
+    "ip": "::1",
+    "route": "auth",
+    "action": "github_app_callback",
+    "event": "auth.github_app_callback",
+    "status": "error",
+    "provider": "github-app",
+    "message": "Resource not accessible by integration"
+  },
+  {
+    "id": "0ba0f77a-8f03-4ec0-91e6-ca16b9ddc232",
+    "ts": 1766748849139,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "9f8f25ab-8269-4014-907a-6d1659bf1538",
+    "ts": 1766748877679,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "04d4a4da-94bd-453c-a06c-82f9e1a03179",
+    "ts": 1766748897417,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "5624ae49-e62e-4a8f-98ec-69f07d5ea38e",
+    "ts": 1766748918156,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "d2b8a80e-8e0b-42a0-9c38-e12357c8ddd0",
+    "ts": 1766748937471,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
   }
 ]
