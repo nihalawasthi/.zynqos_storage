@@ -463,5 +463,95 @@
     "event": "auth.audit_read",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "9f1f1fdb-816a-4eeb-8c4e-7f826c124d94",
+    "ts": 1766748197615,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "9f1f1fdb-816a-4eeb-8c4e-7f826c124d94",
+    "ts": 1766748197615,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "75eba279-3fef-4b24-8dbc-e9a85cae9465",
+    "ts": 1766748202072,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "75eba279-3fef-4b24-8dbc-e9a85cae9465",
+    "ts": 1766748202072,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "19c766ce-a9e5-40bf-8fc6-04414167e7b5",
+    "ts": 1766748207979,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "19c766ce-a9e5-40bf-8fc6-04414167e7b5",
+    "ts": 1766748207979,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "a617d7c3-e910-4bca-8f71-ff559a906083",
+    "ts": 1766748230130,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "a617d7c3-e910-4bca-8f71-ff559a906083",
+    "ts": 1766748230130,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "459a0832-6b67-4d1a-9fe1-872c43753e6c",
+    "ts": 1766748237138,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
   }
 ]
