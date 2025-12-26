@@ -393,5 +393,35 @@
     "event": "auth.audit_read",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "44f10b98-379c-47ec-8a98-843b88273680",
+    "ts": 1766748138172,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "794c253b-683d-48a1-8a8e-80454de4262e",
+    "ts": 1766748148474,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "2bde968f-7375-4da0-bacf-4dc96cd9cff6",
+    "ts": 1766748157801,
+    "ip": "::1",
+    "route": "auth",
+    "action": "audit",
+    "event": "auth.audit_read",
+    "status": "success",
+    "provider": "github"
   }
 ]
