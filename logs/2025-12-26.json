@@ -1,0 +1,155 @@
+[
+  {
+    "id": "9f5d406a-5577-40b9-8059-aaa033171703",
+    "ts": 1766743926106,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "3ca5ae3f-58ce-40a2-902b-ebd943857c3a",
+    "ts": 1766743966266,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "495a587a-2b6a-4339-af9d-0197ae8900b1",
+    "ts": 1766744067276,
+    "ip": "::1",
+    "route": "auth",
+    "action": "github_app_callback",
+    "event": "auth.github_app_callback",
+    "status": "error",
+    "provider": "github-app",
+    "message": "Resource not accessible by integration"
+  },
+  {
+    "id": "26aab864-b4bd-4f43-b50a-b4ce6a50ef34",
+    "ts": 1766744071757,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "e2bbe369-30f9-4136-9068-bc912c9a01ee",
+    "ts": 1766744140731,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "2766a3fd-9c8b-4da8-8991-a18085aebd22",
+    "ts": 1766744256608,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "e6fb3af9-09a7-4a68-a6f7-a4a28db3a968",
+    "ts": 1766744277870,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "8dfa7c0f-a988-4fc8-abea-c1317ce14daf",
+    "ts": 1766744295479,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "cbf913a5-cd21-4798-8f25-fa8e0a19fb3c",
+    "ts": 1766746752279,
+    "ip": "::1",
+    "route": "auth",
+    "action": "github_app_callback",
+    "event": "auth.github_app_callback",
+    "status": "error",
+    "provider": "github-app",
+    "message": "Resource not accessible by integration"
+  },
+  {
+    "id": "0db85866-ae58-4d24-ac5c-5b556f98dd79",
+    "ts": 1766746774093,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "ab8a2359-c502-4715-865c-56932f3a1ee8",
+    "ts": 1766747026606,
+    "ip": "::1",
+    "route": "auth",
+    "action": "github_app_callback",
+    "event": "auth.github_app_callback",
+    "status": "error",
+    "provider": "github-app",
+    "message": "Resource not accessible by integration"
+  },
+  {
+    "id": "9b0e813c-0907-4566-b994-c897fb83ced8",
+    "ts": 1766747062791,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "3c9421c1-00cb-440b-aa2e-78849bea5f68",
+    "ts": 1766747528025,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "7d9a3d24-b489-46dd-8d5e-b46e45bd0077",
+    "ts": 1766747557095,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "9b4533a4-1be4-4c00-96f5-26e7f2dd4263",
+    "ts": 1766747617014,
+    "ip": "::1",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  }
+]
