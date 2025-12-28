@@ -707,5 +707,95 @@
     "event": "auth.status",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "39a072a5-6c4e-4d1f-828e-3804edd27f40",
+    "ts": 1766931393570,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "203a91e2-fe0f-42c4-a14f-734e1b54f22f",
+    "ts": 1766931393835,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "b4cd4250-7273-46eb-9f5f-17b2541e74da",
+    "ts": 1766931397492,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "7bee6c15-e852-4ccc-aa24-f3cdff79a235",
+    "ts": 1766931397765,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "5ce9164d-3f7e-43a7-9ba9-c29f283f2c01",
+    "ts": 1766931408764,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "52b427df-424d-4e93-8a50-ed1b6c62f3c1",
+    "ts": 1766931417188,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "d18b85a2-15b5-412f-af9a-c57e4614478f",
+    "ts": 1766931452700,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "67f0a946-40d6-4172-b2e2-4abdffd15e45",
+    "ts": 1766931453003,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "c9927af8-1be3-4748-a0be-0412854436bb",
+    "ts": 1766931472276,
+    "ip": "49.43.6.129",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
   }
 ]
