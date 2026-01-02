@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "display": {
+    "theme": "dark",
+    "wallpaper": {
+      "source": "/assets/wallpaper.png",
+      "size": "60%",
+      "position": "center",
+      "repeat": "no-repeat"
+    }
+  },
+  "sync": {
+    "autoSyncEnabled": false,
+    "autoSyncIntervalMinutes": 15
+  },
+  "audit": {
+    "autoSync": true
+  }
+}
