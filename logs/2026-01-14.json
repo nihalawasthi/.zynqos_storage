@@ -149,5 +149,126 @@
     "event": "auth.status",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "0f8cff4e-2d88-48b2-a0dd-6f5363555ccc",
+    "ts": 1768396913583,
+    "ip": "49.43.6.209",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "12900230-afaa-4bac-9c2a-1275a4b053ea",
+    "ts": 1768396913834,
+    "ip": "49.43.6.209",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "afff3403-2f7e-46ae-9e57-2af0620e0b47",
+    "ts": 1768396917630,
+    "ip": "49.43.6.209",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "8fd8577e-3510-479d-b3ac-0ef376e15a9b",
+    "ts": 1768396940630,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "456bb805-4019-4ca4-bcb8-f88a18df8960",
+    "ts": 1768396946959,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "0b5ff7cd-9f27-42b6-b42b-f9c79e2d1ba9",
+    "ts": 1768396954737,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "32878eb3-76be-48be-a80d-ccf9c4677b2d",
+    "ts": 1768396955035,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "ef00a314-2f68-4b99-8b0a-1db5970f997b",
+    "ts": 1768396961932,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "disconnect",
+    "event": "auth.disconnect",
+    "status": "success",
+    "message": "Session cleared"
+  },
+  {
+    "id": "13ed3d0f-8eef-4354-8c4c-68c5bcfe4555",
+    "ts": 1768396967834,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "exchange_github",
+    "event": "auth.exchange_github",
+    "status": "success",
+    "provider": "github",
+    "message": "User: nihalawasthi"
+  },
+  {
+    "id": "1e0079ba-0545-434b-979c-375a7e7a5aab",
+    "ts": 1768396968128,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "47141c39-2e3c-436d-b678-2478c6430342",
+    "ts": 1768396968454,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "99622c5f-2eff-45df-a5bb-cad4999e4e08",
+    "ts": 1768396974508,
+    "ip": "152.58.56.198",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
   }
 ]
