@@ -1059,5 +1059,25 @@
     "event": "auth.status",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "4aa73436-df40-46e8-8718-eda1fd1e1494",
+    "ts": 1770033250679,
+    "ip": "152.59.47.237",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "5dea95c7-3d32-4a78-8a86-dd567c927911",
+    "ts": 1770033251083,
+    "ip": "152.59.47.237",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
   }
 ]
