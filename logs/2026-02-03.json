@@ -1,0 +1,53 @@
+[
+  {
+    "id": "66d6cb10-40ec-4684-a2cc-260f36ec7631",
+    "ts": 1770095350603,
+    "ip": "152.59.30.169",
+    "route": "auth",
+    "action": "exchange_github",
+    "event": "auth.exchange_github",
+    "status": "success",
+    "provider": "github",
+    "message": "User: nihalawasthi"
+  },
+  {
+    "id": "ba2fd3ff-fae3-44fc-8d72-7d8675895404",
+    "ts": 1770095351042,
+    "ip": "152.59.30.169",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "a64890f0-ee8a-4e15-a0dd-fb821a2da807",
+    "ts": 1770095351437,
+    "ip": "152.59.30.169",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "d1cd9f64-f9fd-46d5-8b92-1ca23a559457",
+    "ts": 1770095351994,
+    "ip": "152.59.30.169",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "6422f22f-359f-482e-8649-aebb8bbfc840",
+    "ts": 1770095360713,
+    "ip": "152.59.30.169",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  }
+]
