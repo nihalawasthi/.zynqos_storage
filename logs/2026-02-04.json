@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ef694c22-d8e0-4904-b8e4-cf5f1095620a",
+    "ts": 1770218494271,
+    "ip": "152.59.46.166",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  }
+]
