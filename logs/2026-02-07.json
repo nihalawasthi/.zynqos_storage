@@ -449,5 +449,15 @@
     "event": "auth.status",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "e609adb7-63c1-4d67-b632-afdeacf486be",
+    "ts": 1770471696898,
+    "ip": "152.59.47.244",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
   }
 ]
