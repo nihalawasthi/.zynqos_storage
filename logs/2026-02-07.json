@@ -98,5 +98,66 @@
     "event": "auth.status",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "0242fe28-97b1-4567-8e7b-9cea9e94f15e",
+    "ts": 1770467996804,
+    "ip": "122.179.90.63",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "1cb70cf2-cd8b-48a4-9ae7-9c4c6d27483c",
+    "ts": 1770468058666,
+    "ip": "122.179.90.63",
+    "route": "auth",
+    "action": "exchange_github",
+    "event": "auth.exchange_github",
+    "status": "success",
+    "provider": "github",
+    "message": "User: draco498"
+  },
+  {
+    "id": "5b8ffbb8-3786-43a7-b703-59832e3e9f79",
+    "ts": 1770468059057,
+    "ip": "122.179.90.63",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "152493b0-5f29-46a9-a750-157c42945ec3",
+    "ts": 1770468059341,
+    "ip": "122.179.90.63",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "e7a2aa77-4b10-4358-a04b-b5b5b81a55db",
+    "ts": 1770468062065,
+    "ip": "122.179.90.63",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "b9e1cabe-dfa5-4584-84e8-8d89c5c5bf33",
+    "ts": 1770468063190,
+    "ip": "122.179.90.63",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
   }
 ]
