@@ -1,0 +1,103 @@
+[
+  {
+    "id": "f5c1eeed-ff41-4a49-8a32-26484a098677",
+    "ts": 1770553930322,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "bb308fa0-3a32-49f2-bbb3-4b5ea4ddb52d",
+    "ts": 1770553934525,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "db188ed5-fb23-4c0f-8fe9-7b8db87072ad",
+    "ts": 1770554001541,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "13b9af89-a3fb-4ce7-b097-ea55920f9926",
+    "ts": 1770554001818,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "940bb326-e2fe-4739-8f4d-64e6ac6f57d8",
+    "ts": 1770554600985,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "disconnect",
+    "event": "auth.disconnect",
+    "status": "success",
+    "message": "Session cleared"
+  },
+  {
+    "id": "4e7131b9-c314-4c0f-b986-60373af9187c",
+    "ts": 1770554607153,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "exchange_github",
+    "event": "auth.exchange_github",
+    "status": "success",
+    "provider": "github",
+    "message": "User: nihalawasthi"
+  },
+  {
+    "id": "78fef1e6-6cbc-4365-83ec-b021afb7f56d",
+    "ts": 1770554607421,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "4e78f733-77e3-4e44-99ae-bce373916f5c",
+    "ts": 1770554607770,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "97d39bae-aa51-406f-9ce4-4e19737aa287",
+    "ts": 1770554609781,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "7ce9269a-6f03-499e-8da0-33b5324ebadd",
+    "ts": 1770554650876,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  }
+]
