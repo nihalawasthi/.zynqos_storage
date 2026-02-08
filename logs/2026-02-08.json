@@ -431,6 +431,16 @@
     "provider": "github"
   },
   {
+    "id": "9085514f-c4ff-4371-95f2-bc149c6e486a",
+    "ts": 1770559047036,
+    "ip": "122.179.89.36",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
     "id": "ba8712fb-b833-4b2a-a677-377878f1e3bf",
     "ts": 1770559360372,
     "ip": "122.179.89.36",
