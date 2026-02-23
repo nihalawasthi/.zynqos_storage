@@ -310,5 +310,96 @@
     "event": "auth.status",
     "status": "success",
     "provider": "github"
+  },
+  {
+    "id": "bc7568c4-9a2d-4041-b49d-e54440140540",
+    "ts": 1771835208164,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "95ba2d84-3781-44c1-bca0-9f7d6739decd",
+    "ts": 1771835208989,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "792c0bb0-5d7a-4871-b31b-d5b690b79a4a",
+    "ts": 1771835228795,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "disconnect",
+    "event": "auth.disconnect",
+    "status": "success",
+    "message": "Session cleared"
+  },
+  {
+    "id": "8256b83b-a7ac-43d0-bb23-5b85f462bb83",
+    "ts": 1771835283526,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "exchange_github",
+    "event": "auth.exchange_github",
+    "status": "success",
+    "provider": "github",
+    "message": "User: nihalawasthi"
+  },
+  {
+    "id": "cc902d75-1431-4aa5-bb2a-bd3f0ff19a2a",
+    "ts": 1771835283864,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "aaac2dab-9cf7-4ebd-97d7-a6d58df9f687",
+    "ts": 1771835284329,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "c66c563b-1633-40cf-b2cd-1a8a63f33bd9",
+    "ts": 1771835284696,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "c861a35f-7bfc-423a-8f0a-96a1f211a9be",
+    "ts": 1771835285038,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
+  },
+  {
+    "id": "eb246901-3039-4c25-b151-e07e3fbe9690",
+    "ts": 1771835303675,
+    "ip": "152.58.58.51",
+    "route": "auth",
+    "action": "status",
+    "event": "auth.status",
+    "status": "success",
+    "provider": "github"
   }
 ]
